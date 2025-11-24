@@ -1,4 +1,4 @@
-# WalletMate
+# Wallet Mate
 
 WalletMate is a simple Flutter app for tracking personal finances, managing contacts, and categorizing transactions.  
 It helps you keep an eye on your balance, record payments, and analyze your spending.
@@ -47,4 +47,4 @@ It helps you keep an eye on your balance, record payments, and analyze your spen
 - This app is for demonstration and learning purposes.
 
 ## License
--MIT License
+MIT License
